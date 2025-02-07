@@ -1,6 +1,4 @@
-# todo_app
-To Do Application
-# To-Do List Application
+To-Do List Application
 
 This is a simple command-line To-Do List Application built in Python. It allows users to add, view, and delete tasks interactively.
 
